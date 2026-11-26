@@ -48,7 +48,7 @@ MINDSET    : Read the source. Patch the flaw. Ship the fix.
 ### `> ./sys_stats.sh`
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=0xMask3d&show_icons=true&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&bg_color=0D1117&border_color=1F2937" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=0xMask3d&show_icons=true&hide_rank=true&hide=stars&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&bg_color=0D1117&border_color=1F2937" />
 </div>
 
 ---
