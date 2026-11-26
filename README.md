@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/Shinutrk1">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=00FF41¢er=true&vCenter=true&width=650&lines=%3E+whoami+%E2%80%94+Mask3d;%3E+Android+%26+Kotlin+Hacker;%3E+Patching+FOSS+%26+Breaking+Limits" alt="Mask3d Terminal Banner" />
+  <a href="https://github.com/0xMask3d">
+    <img src="./banner.svg" alt="Mask3d Terminal Banner" />
   </a>
 </div>
 
@@ -27,7 +27,7 @@ MINDSET    : Read the source. Patch the flaw. Ship the fix.
 
 | Target | Operation | Impact |
 | :--- | :--- | :--- |
-| **[OreoMuncher45/Auris](https://github.com/OreoMuncher45/Auris/pulls?q=author%3AShinutrk1)** | Engineered Android Auto support (Spotify playlists, Daylist & Home recommendations) | `+3.3k lines` · Kotlin |
+| **[OreoMuncher45/Auris](https://github.com/OreoMuncher45/Auris/pulls?q=author%3A0xMask3d)** | Engineered Android Auto support (Spotify playlists, Daylist & Home recommendations) | `+3.3k lines` · Kotlin |
 | **FOSS Ecosystem** | Deep bug hunting, logcat/diagnostic triage & reproducible regression reports | QA · Debugging |
 | **Android Systems** | Firmware debloating, ADB automation & custom launcher deployments | ADB · Shell |
 
@@ -48,6 +48,16 @@ MINDSET    : Read the source. Patch the flaw. Ship the fix.
 ### `> ./sys_stats.sh`
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Shinutrk1&show_icons=true&include_all_commits=true&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&bg_color=0D1117&border_color=1F2937" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinutrk1&layout=compact&title_color=00FF41&text_color=C9D1D9&bg_color=0D1117&border_color=1F2937" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=0xMask3d&show_icons=true&include_all_commits=true&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&bg_color=0D1117&border_color=1F2937" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xMask3d&layout=compact&title_color=00FF41&text_color=C9D1D9&bg_color=0D1117&border_color=1F2937" />
+</div>
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xMask3d/0xMask3d/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xMask3d/0xMask3d/output/github-contribution-grid-snake.svg" />
+    <img alt="Mask3d contribution snake" src="https://raw.githubusercontent.com/0xMask3d/0xMask3d/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
