@@ -1,0 +1,15 @@
+<svg width="720" height="110" viewBox="0 0 720 110" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #0D1117; stroke: #1F2937; stroke-width: 1.5; }
+    .prompt { font: 700 22px 'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace; fill: #00FF41; }
+    .sub { font: 500 13px 'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, monospace; fill: #8B949E; }
+    .cursor { animation: blink 1s step-end infinite; }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+  </style>
+  <rect class="bg" x="1" y="1" width="718" height="108" rx="8" />
+  <circle cx="22" cy="18" r="5" fill="#FF5F56" />
+  <circle cx="38" cy="18" r="5" fill="#FFBD2E" />
+  <circle cx="54" cy="18" r="5" fill="#27C93F" />
+  <text x="360" y="58" text-anchor="middle" class="prompt">&gt; whoami — 0xMask3d <tspan class="cursor">█</tspan></text>
+  <text x="360" y="86" text-anchor="middle" class="sub">Android &amp; Kotlin Hacker · Patching FOSS &amp; Breaking Limits</text>
+</svg>
