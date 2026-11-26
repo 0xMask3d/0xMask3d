@@ -1,5 +1,4 @@
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xMask3d&layout=compact&title_color=00FF41&text_color=C9D1D9&bg_color=0D1117&border_color=1F2937" />
   <a href="https://github.com/0xMask3d">
     <img src="./banner.svg" alt="Mask3d Terminal Banner" />
   </a>
